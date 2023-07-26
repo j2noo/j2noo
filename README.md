@@ -1,4 +1,4 @@
-### 열심히살자
+### 열심히 살자 진우야 🔥
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdndml213)](https://solved.ac/wlsdndml213/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2noo&layout=compact&theme=gruvbox)
