@@ -5,11 +5,11 @@
 * 한국대학생IT경영학회 KUSITMS 29th - Backend `2024.02 ~ 2024.06`
 
 ## Awards
-* 한국대학생IT경영학회 KUSITMS 28th 기업프로젝트(HDMedi) 우수상 - HDMedi 홈페이지 개선
-* 한국대학생IT경영학회 KUSITMS 28th 밋업데이 대상 - Wanteam
-* 한국대학생IT경영학회 KUSITMS 29th 기업프로젝트(Soullive) 우수상 - 셀럽/인플루언서 검증 모바일 앱 UI/UX 개선
-* 세종대학교 창의설계경진대회 우수상 `2024.06` - DC빌딩 에너지 예측 및 관리 시스템
-* 세종대학교 컴공X소웨 학술제 3등 `2024.06` - DC빌딩 에너지 예측 및 관리 시스템
+* 한국대학생IT경영학회 KUSITMS 28th 기업프로젝트(HDMedi) 우수상 - HDMedi 홈페이지 개선 `2023.09` 
+* 한국대학생IT경영학회 KUSITMS 28th 밋업데이 대상 - Wanteam `2023.11` 
+* 한국대학생IT경영학회 KUSITMS 29th 기업프로젝트(Soullive) 우수상 - 셀럽/인플루언서 검증 모바일 앱 UI/UX 개선 `2024.03` 
+* 세종대학교 창의설계경진대회 우수상 - DC빌딩 에너지 예측 및 관리 시스템 `2024.06` 
+* 세종대학교 컴공X소웨 학술제 3등 - DC빌딩 에너지 예측 및 관리 시스템 `2024.06` 
 
 ## Certificates
 
@@ -18,8 +18,10 @@
 - [Team Dododok CS스터디](https://github.com/java-two-people-get-in/Dododok-CS-study) `2024.06 ~`
 
 <br/>
+
 ### BOJ Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdndml213)](https://solved.ac/wlsdndml213/)
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2noo&layout=compact&theme=gruvbox)
 **j2noo/j2noo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
