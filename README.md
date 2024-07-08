@@ -3,6 +3,7 @@
 ## Experiences
 * 한국대학생IT경영학회 KUSITMS 28th - Web Frontend `2023.08 ~ 2023.12`
 * 한국대학생IT경영학회 KUSITMS 29th - Backend `2024.02 ~ 2024.06`
+* 현대자동차그룹 소프티어 부트캠프 4기 - Web Backend `2024.07 ~ 2024.08`
 
 ## Awards
 * 한국대학생IT경영학회 KUSITMS 28th 기업프로젝트(HDMedi) 우수상 - HDMedi 홈페이지 개선 `2023.09` 
