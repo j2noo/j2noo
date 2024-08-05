@@ -13,6 +13,7 @@
 * 세종대학교 컴공X소웨 학술제 3등 - DC빌딩 에너지 예측 및 관리 시스템 `2024.06` 
 
 ## Certificates
+- 정보처리기사 `2023.09~`
 
 ## Study
 - [SJCE 알고리즘 스터디](https://github.com/j2noo/SJCE_Algorithm_Study) `2023.11 ~`
