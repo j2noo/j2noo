@@ -14,6 +14,7 @@
 
 ## Certificates
 - 정보처리기사 `2023.09~`
+- OPIC IM3
 
 ## Study
 - [SJCE 알고리즘 스터디](https://github.com/j2noo/SJCE_Algorithm_Study) `2023.11 ~`
