@@ -23,7 +23,7 @@
 <br/>
 
 ### BOJ Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdndml213)](https://solved.ac/wlsdndml213/)
+[![wlsdndml213's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wlsdndml213)](https://solved.ac/profile/wlsdndml213)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j2noo&layout=compact&theme=gruvbox)
