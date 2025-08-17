@@ -21,7 +21,6 @@
 ## Study
 - [SJCE 알고리즘 스터디](https://github.com/j2noo/SJCE_Algorithm_Study) `2023.11 ~`
 - [Team Dododok CS스터디](https://github.com/java-two-people-get-in/Dododok-CS-study) `2024.06 ~`
-- [SJCE CS 스터디](https://github.com/SJCE-19th/SJCE-CS-Study) `2025.08 ~`
   
 <br/>
 
